@@ -1,1 +1,2 @@
-*.ipynb_checkpoints/
+myenv/
+*.ipynb_checkpoints/myenv/ 
