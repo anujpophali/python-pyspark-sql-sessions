@@ -100,4 +100,4 @@ def make_200(body):
 
 def fake_sleep(secs):
     """Drop-in replacement for time.sleep used in demo cells — prints instead of waiting."""
-    print(f"        ↳ [would sleep {secs:.2f}s in production — skipped in demo]")
+    print(f"        -> [would sleep {secs:.2f}s in production -- skipped in demo]")
