@@ -1,6 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 myenv/
-<<<<<<< HEAD
-*.ipynb_checkpoints/myenv/ 
-=======
-*.ipynb_checkpoints/
->>>>>>> origin
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
